@@ -1,4 +1,13 @@
 {
   "userEmail":"facuvega1989@gmail.com",
-  "userPassword": "passwordexample1"
+  "invalidEmail":"notAvalidEmail@gmail.com",
+  "userPassword": "passwordexample1",
+  "invalidPassword": "notAvalidPassword123",
+  "defaultWorkspace": "Favega89's Workspace",
+  "validationMessages": {
+    "noEmailFormatAlert": "This is not a valid email",
+    "blankEmailAlert": "Email can’t be blank",
+    "BlankPasswordAlert": "Password can’t be blank",
+    "invalidCredentials": "We couldn’t sign you in. Please check your details and try again." 
+  }
 }

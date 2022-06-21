@@ -1,7 +1,5 @@
-{
-  "userEmail":"facuvega1989@gmail.com",
+{  
   "invalidEmail":"notAvalidEmail@gmail.com",
-  "userPassword": "passwordexample1",
   "invalidPassword": "notAvalidPassword123",
   "defaultWorkspace": "Favega89's Workspace",
   "validationMessages": {
